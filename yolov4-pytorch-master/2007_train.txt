@@ -1,0 +1,1 @@
+C:\ml\machine-learning\yolov4-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000000.jpg
